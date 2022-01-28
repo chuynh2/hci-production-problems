@@ -7,3 +7,25 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+html {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 17px;
+	font-family: 'Source Code Pro', sans-serif;
+	font-size: 17px;
+}
+h1{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+}
+h2{
+	font-family: 'Source Code Pro', sans-serif;
+	font-size: 30px;
+}
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 17px;
+}
+
+
+

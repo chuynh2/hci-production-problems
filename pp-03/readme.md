@@ -29,14 +29,18 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://material.io/components/text-fields#anatomy
 * Describe how you implemented that guideline in your sketch:
+In sketch2, I implemented the text field by changing the previous text field from having a label above the text field to inside the field text.
+Also, when the user input the text the label moves up to the top of the text field and reduce the size.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL):https://m3.material.io/components/navigation-drawer/overview
 * Describe how you implemented that guideline in your sketch:
-
-* HCI Guideline Three (URL):
+In sketch1, I implemented a navivation drawer with icons and labels to make navigation easier and to complement the navigation rail.
+Also the active indicator is used to make have the user understand what section they are on. 
+* HCI Guideline Three (URL):https://m3.material.io/components/navigation-rail/overview
 * Describe how you implemented that guideline in your sketch:
-
+In sketch2, I implemented a navigation rail to match the navigation drawer to have similar side bar and label for the users to understand what the icon means.
+Also the active indicator is used to make have the user understand what section they are on. 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.

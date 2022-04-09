@@ -16,8 +16,8 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.https://teamsuccess.io/UX 
-2.https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf 
+1. https://teamsuccess.io/UX 
+2. https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf 
 
 * Your team’s condensed ten-item, must-have usability checklist:
 

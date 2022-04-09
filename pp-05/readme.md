@@ -16,18 +16,18 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.https://teamsuccess.io/UX 
+2.https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf 
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Clear call for action. User understand what to do next.
+2. Products and services are visible and quickly understood on the homepage.
+3. The user's currentlocation is always identified. 
+4. The back button is always avaliable ad allows to return to the previous page.
+5. Website is professionaly designed and up-to-date.
+6. Terms and labels are not redundant or confusing.
+7. Clear visual hierarchy of heads, subtilites, options and labels on each page.
+8. Fonts, and color palette is used and consistent site-wide.
+9. Simplicity. Only absolutely necessary questions are asked in the forms.
+10. Broswer and moblie compaitibility. It works on various browsers and different screen sizes. 
